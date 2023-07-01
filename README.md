@@ -1,3 +1,15 @@
+# Personal Section. 
+I will slowly work on this portfolio over the course of the next week.
+- Churn Prediction Project
+    - Create preview for EDA, Model Selection, Model Evaluation.
+    - learn how to create the markdown required for multilevel preveiw. 
+    
+- BetaBank Project
+    - Project Preview.
+    - 
+
+
+
 ## Developer Portfolio Landing Page Template
 
 ### Introduction
