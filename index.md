@@ -5,7 +5,7 @@
 ### Telecom Churn Prediction
 
 [Interconnect Churn Pipeline](/sample_page)
-<img src="confusion_matrix.png?raw=true"/>
+<img src="confusion_matrix.png">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
