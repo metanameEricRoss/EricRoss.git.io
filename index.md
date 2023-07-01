@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Telecom Churn Prediction
 
-[Telecom Churn Prediction](/sample_page)
+[](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
